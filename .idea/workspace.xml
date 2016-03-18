@@ -2,213 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0ac8605-c396-493f-b63b-74752a34e553" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\.idea\NhsTime.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\.idea\libraries\NhsTime_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\VertCenter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\admin.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\app.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\band.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\bandtime.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\calbday.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\commands.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\essay.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\external\jquery\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fanfare3.wav" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\fun.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\hacktest.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_diagonals-thick_15_0b3e6f_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_dots-medium_30_0b58a2_4x4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_dots-small_20_333333_2x2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_dots-small_30_a32d00_2x2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_dots-small_40_00498f_2x2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_flat_40_292929_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-bg_gloss-wave_20_111111_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-icons_00498f_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-icons_98d2fb_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-icons_9ccdfc_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\images\ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\javascripts\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\javascripts\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\javascripts\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.structure.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.structure.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jquery-ui.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\cross.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\hs.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\hv.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\jscolor\jscolor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\libtest.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\minuteHand.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\jquery.simpleWeather.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\jquery.simpleWeather.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\monkeecreate-jquery.simpleWeather-ed11490\simpleweather.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\music.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\css\bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\button.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\dist\js\umd\util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\grunt\change-version.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\grunt\configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\grunt\npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_animation.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_button-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_custom-forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_responsive-embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_utilities-background.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_utilities-responsive.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_utilities-spacing.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\bootstrap-flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\bootstrap-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\bootstrap-reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_breakpoints.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_center-block.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_hover.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_label.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_lists.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_navbar-align.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_pulls.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_text-hide.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\node_modules\bootstrap\scss\mixins\_text-truncate.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\notify.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\outsiters.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\presents.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\teleprompter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\test.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\test.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\time.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\NhsTime\weather.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
     </list>
     <ignored path="ImsTime.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -233,7 +27,7 @@
       <file leaf-file-name="splash.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/splash.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.884615">
+            <state vertical-scroll-proportion="0.0">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="43" selection-end-column="13" />
               <folding />
             </state>
@@ -243,7 +37,7 @@
       <file leaf-file-name="freshman.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/freshman.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.26923">
+            <state vertical-scroll-proportion="0.0">
               <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
               <folding />
             </state>
@@ -253,7 +47,7 @@
       <file leaf-file-name="sophomore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/sophomore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.26923">
+            <state vertical-scroll-proportion="0.0">
               <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
@@ -263,18 +57,28 @@
       <file leaf-file-name="junior.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/junior.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="senior.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="senior.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/senior.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31228474">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4174107">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -323,13 +127,13 @@
         <option value="$PROJECT_DIR$/public/time.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/bin/www" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/freshman.js" />
         <option value="$PROJECT_DIR$/public/splash.html" />
         <option value="$PROJECT_DIR$/public/freshman.html" />
         <option value="$PROJECT_DIR$/public/sophomore.html" />
         <option value="$PROJECT_DIR$/public/junior.html" />
         <option value="$PROJECT_DIR$/public/senior.html" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -373,7 +177,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -409,6 +212,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -667,7 +471,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12961012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -745,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,19 +827,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/freshman.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,13 +852,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/splash.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.884615">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="43" selection-end-column="13" />
           <folding />
         </state>
@@ -1075,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/freshman.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.26923">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
           <folding />
         </state>
@@ -1083,7 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/sophomore.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.26923">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
@@ -1091,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/junior.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
@@ -1099,8 +889,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/senior.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31228474">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4174107">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
