@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0ac8605-c396-493f-b63b-74752a34e553" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/senior.html" afterPath="$PROJECT_DIR$/public/senior.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sophomore.html" afterPath="$PROJECT_DIR$/public/sophomore.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/freshman.html" afterPath="$PROJECT_DIR$/public/freshman.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ImsTime.iws" />
@@ -69,17 +68,17 @@
       <file leaf-file-name="senior.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/senior.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-29.538462">
-              <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+            <state vertical-scroll-proportion="-21.576923">
+              <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="freshman.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="freshman.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/freshman.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1954023">
+            <state vertical-scroll-proportion="-4.576923">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -89,18 +88,18 @@
       <file leaf-file-name="sophomore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/sophomore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.461538">
+            <state vertical-scroll-proportion="-245.84616">
               <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="junior.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="junior.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/junior.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.269231">
-              <caret line="139" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.01954023">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,10 +154,10 @@
         <option value="$PROJECT_DIR$/public/sophomore.js" />
         <option value="$PROJECT_DIR$/public/senior.js" />
         <option value="$PROJECT_DIR$/public/splash.html" />
-        <option value="$PROJECT_DIR$/public/freshman.html" />
         <option value="$PROJECT_DIR$/public/junior.html" />
         <option value="$PROJECT_DIR$/public/sophomore.html" />
         <option value="$PROJECT_DIR$/public/senior.html" />
+        <option value="$PROJECT_DIR$/public/freshman.html" />
       </list>
     </option>
   </component>
@@ -509,7 +508,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458502306772</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Changed the timer sound, and even possibly maybe fixed it?">
+      <created>1458502353393</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1458502353393</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -898,34 +903,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/junior.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.269231">
-          <caret line="139" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/sophomore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.461538">
-          <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/senior.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.538462">
-          <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+        <state vertical-scroll-proportion="-21.576923">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/freshman.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023">
+        <state vertical-scroll-proportion="-4.576923">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sophomore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-245.84616">
+          <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/junior.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01954023">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
