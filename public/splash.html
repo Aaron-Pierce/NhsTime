@@ -130,13 +130,13 @@
 
 <script>
     if(localStorage.getItem("grade") == "nine"){
-        window.location.assign("/freshman.html");
+        window.location.assign("./freshman.html");
     }else if(localStorage.getItem("grade") == "ten"){
-        window.location.assign("/sophomore.html");
+        window.location.assign("./sophomore.html");
     }else if(localStorage.getItem("grade") == "eleven"){
-        window.location.assign("/junior.html");
+        window.location.assign("./junior.html");
     }else if(localStorage.getItem("grade") == "twelve"){
-        window.location.assign("/senior.html");
+        window.location.assign("./senior.html");
     }else{
     $(".sophomore").click(function(){
         localStorage.setItem("grade", "ten");
