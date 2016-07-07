@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0ac8605-c396-493f-b63b-74752a34e553" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/freshman.html" afterPath="$PROJECT_DIR$/public/freshman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/junior.html" afterPath="$PROJECT_DIR$/public/junior.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/senior.html" afterPath="$PROJECT_DIR$/public/senior.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sophomore.html" afterPath="$PROJECT_DIR$/public/sophomore.html" />
     </list>
     <ignored path="ImsTime.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,8 +97,8 @@
       <file leaf-file-name="junior.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/junior.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="228" column="66" selection-start-line="228" selection-start-column="66" selection-end-line="228" selection-end-column="66" />
+            <state relative-caret-position="187">
+              <caret line="201" column="12" selection-start-line="201" selection-start-column="12" selection-end-line="201" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -345,7 +341,7 @@
       <workItem from="1467731000376" duration="19000" />
       <workItem from="1467731033984" duration="1170000" />
       <workItem from="1467764949021" duration="81000" />
-      <workItem from="1467934938421" duration="55000" />
+      <workItem from="1467934938421" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="Created Teleprompter">
       <created>1446118893337</created>
@@ -550,11 +546,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458502353393</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Changed the timer sound, and even possibly maybe fixed it?">
+      <created>1467935011131</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1467935011131</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1325000" />
+    <option name="totallyTimeSpent" value="1379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -974,8 +977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/junior.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="228" column="66" selection-start-line="228" selection-start-column="66" selection-end-line="228" selection-end-column="66" />
+        <state relative-caret-position="187">
+          <caret line="201" column="12" selection-start-line="201" selection-start-column="12" selection-end-line="201" selection-end-column="12" />
           <folding />
         </state>
       </provider>
