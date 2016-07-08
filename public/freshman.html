@@ -131,8 +131,6 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/3.0.2/jquery.simpleWeather.min.js"></script>
 <script type="text/javascript" src="notify.js"></script>
 <script type="text/javascript" src="jscolor/jscolor.js"></script>
-<script type="text/javascript" src="freshman.js"></script>
-    <!-- detecting a moble browser... pretty long for just that -->
       <script type="text/javascript">/**
        * jQuery.browser.mobile (http://detectmobilebrowser.com/)
        *
@@ -143,8 +141,10 @@
 
       if(jQuery.browser.mobile == true){
           //window.location.assign("mobile.html")
+          console.log("mobile browser found");
           $(".signature").css("text-align","center");
-          $(".style").html("body{ color: #337ab7; height: 100%; width: 100%; background-color: #333; text-align: center;} .body{ text-align: center; } .p{ left: 0; font-size: 4em; text-shadow: 6px 6px #292929; } .glyphicon { display: inline-block; margin-bottom: 0; position: fixed; bottom: 0; right: 0; } .arrow { display: inline-block; margin-bottom: 0; position: fixed; bottom: 0; left: 0; } .glyph{ } .cog{ width: 34px; height: 34px; display: inline-block; margin-bottom: 0; position: fixed; top: 0; right: 0; } .backarrow{ width: 34px; height: 34px; display: inline-block; margin-bottom: 0; position: fixed; top: 0; left: 0; } p{ display: inline-block; } .themeP{ text-shadow: none; } .signature{ font-size: 1em; text-align: center; top 0px; bottom: 0px; text-shadow: none; color: #337ab7; } .popup{ text-align: center; } .weather{ font-size: 1em; position: fixed; bottom: 2px; left: 2px; text-shadow: none; color: white; } .notification{ position: absolute; bottom: 0; right: 0; height: 10%; width: 20%; } .customTheme{ display: none; }");
+          $(".style").html("body{ color: #337ab7; height: 100%; width: 100%; background-color: #333; text-align: center;} .body{ text-align: center; } .p{ left: 0; font-size: 4em; text-shadow: 6px 6px #292929; } .glyphicon { display: inline-block; margin-bottom: 0; position: fixed; bottom: 0; right: 0; } .arrow { display: inline-block; margin-bottom: 0; position: fixed; bottom: 0; left: 0; } .glyph{ } .cog{ width: 34px; height: 34px; display: inline-block; margin-bottom: 0; position: fixed; top: 0; right: 0; } .backarrow{ width: 34px; height: 34px; display: inline-block; margin-bottom: 0; position: fixed; top: 0; left: 0; } p{ display: inline-block; } .themeP{ text-shadow: none; } .signature{ font-size: 1em; text-align: center; top 0px; bottom: 0px; text-shadow: none; color: #337ab7; } .popup{ text-align: center; } .weather{ font-size: 1em; position: fixed; bottom: 2px; left: 2px; text-shadow: none; color: white; } .notification{ position: absolute; bottom: 0; right: 0; height: 10%; width: 20%; } .customTheme{ display: inline-block; } .darkThemeDiv{display: none} .boldThemeDiv{display: none} .openCustom{display: none}");
+
       }
 
 
@@ -218,7 +218,7 @@
     <div class="backarrow">
     <span class="glyphicon arrow glyphicon-chevron-left form-control-feedback" aria-hidden="false"></span>
     </div>
-    <p class="signature">Website created and developed by Aaron Pierce</p>
+    <p class="signature">App created and developed by Aaron Pierce</p>
     <div class="notification"></div>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     
