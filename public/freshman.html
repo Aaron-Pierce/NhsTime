@@ -20,7 +20,7 @@
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
+      <script type="text/javascript" src="freshman.js"></script>
       <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -236,14 +236,6 @@
 
 
 <script type="text/javascript">
-$.get("http://ipinfo.io", function(response) {
-    console.log(response.ip);
-}, "jsonp");
-
-
-</script>
-
-<script type="text/javascript">
 $(".openCustom").click(function(){
 $(".customTheme").css("display", "initial")
 
@@ -260,7 +252,7 @@ $(".backarrow").click(function () {
 var x = document.cookie.color;
 var y = document.cookie.backcolor;
 var z = document.cookie;
-console.log(x + ", " + y)
+console.log(x + ", " + y);
 $(".saveButton").click(function(){
     console.log("text-shadow: " + $(".shadowSize").val() + $(".shadowColor").val() + "}");
     var textColor = $(".textColor").val();
